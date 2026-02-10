@@ -1,0 +1,5 @@
+f = str(input('Digite uma frase:'))
+print('Sua frase em maiúsculo é {}'.format(f.upper()))
+print('Sua frase em minúsculo é {}'.format(f.lower()))
+print('Sua frase tem {} letras'.format(len(f) - f.count('   ')))
+print('a primeira frase tem {} letras'.format(f.find('  ')))
