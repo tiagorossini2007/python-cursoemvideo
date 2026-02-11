@@ -2,6 +2,7 @@ fatiar uma string em pedaços:
 ex [2:] (começa no 2 e vai ate o final
 qualquer espaço conta
 
+
 📊 TIPOS DE DADOS (Data Types)
 Básicos:
 int - Números inteiros
