@@ -1,0 +1,2 @@
+cd xxxx
+python exxxx
